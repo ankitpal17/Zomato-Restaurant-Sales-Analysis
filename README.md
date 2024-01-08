@@ -1,4 +1,4 @@
-# Zomato-Sales-Analysis
+# Zomato-Restaurant-Sales-Analysis
 
 Data Manipulation and Reporting with Power BI
 
